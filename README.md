@@ -70,27 +70,3 @@ This project was created as part of a backend learning module where we practiced
 * Managing database drivers in an IDE
 
 It is a foundational academic exercise meant to demonstrate integration between Java and MySQL.
-
----
-
-## 💻 For Recruiters
-
-This repository shows:
-
-* Ability to work with Java + SQL
-* Understanding of project structure and separation of concerns
-* Proper handling of credentials and repository hygiene
-* Clear documentation for academic and practical purposes
-
----
-
-## 📝 Optional Evidence for Students
-
-You can add screenshots of:
-
-* Successful connection
-* SQL query output
-* Table structure in MySQL
-* CRUD operations running in IntelliJ
-
----
