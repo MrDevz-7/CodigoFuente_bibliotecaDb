@@ -1,7 +1,7 @@
 # 📚 Java + MySQL Integration (Bootcamp Project)
 
-This repository contains a simple academic project developed during a programming bootcamp.
-The goal was to integrate **Java** with a **MySQL** database using **JDBC**, apply basic CRUD operations, and understand how backend applications communicate with relational databases.
+This repository contains a simple academic exercise developed during the Talentotech2 programming bootcamp. Several parts of the code and the database structure were created collaboratively, with guidance from professor César Henao and valuable input from my classmates.
+The goal was to integrate **Java** with a **MySQL** database using **JDBC**, using **Aiven** as a remote MySQL server to apply basic **CRUD** operations and understand how backend applications communicate with relational databases.
 
 The project uses a small library-style schema (books, patrons, employees, and checkouts) to practice queries and database interaction.
 
